@@ -254,4 +254,6 @@ or [on-demand rendering](https://docs.astro.build/en/guides/on-demand-rendering/
 export const prerender = false
 ```
 
-and explore what server endpoints (non-*.astro* files) mean.
+and explore what [server endpoints](https://docs.astro.build/en/guides/endpoints/) (non-*.astro* files) mean.
+
+Further aspect worth exploring: [Server Islands](https://dev.to/nickytonline/set-sail-for-server-islands-how-they-work-and-when-to-use-them-1p76).
